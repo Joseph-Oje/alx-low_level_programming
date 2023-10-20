@@ -1,1 +1,1 @@
-dynamic_libraries project ALX
+dynamic_libraries ALX project
